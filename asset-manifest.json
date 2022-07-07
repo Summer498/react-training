@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-training/static/css/main.073c9b0a.css",
+    "main.js": "/react-training/static/js/main.66138d8d.js",
+    "static/js/787.1e798670.chunk.js": "/react-training/static/js/787.1e798670.chunk.js",
+    "static/media/logo.svg": "/react-training/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-training/index.html",
+    "main.073c9b0a.css.map": "/react-training/static/css/main.073c9b0a.css.map",
+    "main.66138d8d.js.map": "/react-training/static/js/main.66138d8d.js.map",
+    "787.1e798670.chunk.js.map": "/react-training/static/js/787.1e798670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.66138d8d.js"
+  ]
+}
